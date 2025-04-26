@@ -1,0 +1,12 @@
+results/
+saiki/
+test/
+testmasks/
+train/
+trainmasks/
+valid/
+validmasks/
+
+.zip
+
+
